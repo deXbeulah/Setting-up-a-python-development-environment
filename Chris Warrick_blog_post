@@ -1,0 +1,13 @@
+Chris Warrick has a detailed blog post titled: __"setting-up-a-python-development-environment"__. 
+He wrote about topics that can determine if you will ever get to start your first python 
+development the right way, or start at all. Some of the topics he wrote about include 
+but not limited to the followings:
+
+* Python implementations
+* Python distributions
+* Installing python
+* Installing packages
+* Virtual environment
+e.t.c
+
+The blog post can be found at: https://chriswarrick.com/blog/2017/07/03/setting-up-a-python-development-environment/
